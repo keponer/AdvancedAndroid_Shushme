@@ -125,8 +125,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Powered by google"
+            android:textAlignment="center"/>
     </LinearLayout>
 
     <!-- TODO (9) Add the "Powered by Google" logo and a link to Google's privacy policy here -->
-    
+
+
 </RelativeLayout>
